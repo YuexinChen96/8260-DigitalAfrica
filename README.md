@@ -5,10 +5,13 @@
 retrieved from [http://5b0988e595225.cdn.sohucs.com/images/20190119/5b2918aa9b93401ab90f230cd95975c8.jpeg](http://5b0988e595225.cdn.sohucs.com/images/20190119/5b2918aa9b93401ab90f230cd95975c8.jpeg)
     
 ## Team Members
-Qixuan Ren
-Xi Chen
-Yifei Tao
-Yuexin Chen
+Qixuan Ren: Technical Support | Editor   
+
+Xi Chen: Technical Support | Editor   
+
+Yifei Tao: Technical Support | Editor   
+
+Yuexin Chen: Technical Support | Coordinator   
     
 ## Introduction
 Urbanization rate is an important indicator of urban sustainability. Rapid, unplanned urbanization may 
