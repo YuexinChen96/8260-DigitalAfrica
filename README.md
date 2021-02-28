@@ -1,6 +1,6 @@
 # **COMP8260 Workshop4 Group3 Project**
 > For more information, please visit our [Landing Page](https://urbanisation-in-africa.webflow.io/)    
-< img src="Pictures/urbanization.jpeg" width="800">
+<img src="Pictures/urbanization.jpeg" width="800">
     
 ## Introduction
 Urbanization rate is an important indicator of urban sustainability. Rapid, unplanned urbanization may 
