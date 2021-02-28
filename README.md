@@ -2,7 +2,7 @@
 > For more information, please visit our [Landing Page](https://urbanisation-in-africa.webflow.io/)    
 <img src="Pictures/urbanization.jpeg" width="800">
    
-retrieved from [http://5b0988e595225.cdn.sohucs.com/images/20190119/5b2918aa9b93401ab90f230cd95975c8.jpeg]("http://5b0988e595225.cdn.sohucs.com/images/20190119/5b2918aa9b93401ab90f230cd95975c8.jpeg")
+retrieved from [http://5b0988e595225.cdn.sohucs.com/images/20190119/5b2918aa9b93401ab90f230cd95975c8.jpeg](http://5b0988e595225.cdn.sohucs.com/images/20190119/5b2918aa9b93401ab90f230cd95975c8.jpeg)
     
 ## Introduction
 Urbanization rate is an important indicator of urban sustainability. Rapid, unplanned urbanization may 
