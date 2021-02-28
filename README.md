@@ -2,7 +2,7 @@
 > For more information, please visit our [Landing Page](https://urbanisation-in-africa.webflow.io/)    
 <img src="Pictures/urbanization.jpeg" width="800">
    
-retrieved from []("http://5b0988e595225.cdn.sohucs.com/images/20190119/5b2918aa9b93401ab90f230cd95975c8.jpeg")
+retrieved from [http://5b0988e595225.cdn.sohucs.com/images/20190119/5b2918aa9b93401ab90f230cd95975c8.jpeg]("http://5b0988e595225.cdn.sohucs.com/images/20190119/5b2918aa9b93401ab90f230cd95975c8.jpeg")
     
 ## Introduction
 Urbanization rate is an important indicator of urban sustainability. Rapid, unplanned urbanization may 
@@ -12,5 +12,10 @@ This project aims to use technological innovations such as data cubes (Earth obs
 to help Africa build more sustainable and prosperous social ecosystems for urbanization.
 
 ## Project Overview
+Government and industry need to use some technological innovation platforms to collect information such as the trend of urbanization and the state of population flow 
+in order to play a role in regular urban surveillance.
 
-
+## Project Documents
+* Project Overview
+* Team Charter
+* Decision Log
