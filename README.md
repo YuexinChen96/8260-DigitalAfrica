@@ -9,6 +9,7 @@ retrieved from [http://5b0988e595225.cdn.sohucs.com/images/20190119/5b2918aa9b93
 * u7172190 **Xi Chen**: Technical Support | Editor   
 * u7078518 **Yifei Tao**: Technical Support | Editor   
 * u7194943 **Yuexin Chen**: Technical Support | Coordinator 
+* u7213046 **Fei wu**: Technical Support | Coordinator
 
 ## Introduction
 Urbanization rate is an important indicator of urban sustainability. Rapid, unplanned urbanization may 
