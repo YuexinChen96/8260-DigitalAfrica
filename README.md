@@ -1,6 +1,6 @@
 # **COMP8260 Workshop4 Group3 Project**
 > For more information, please visit our [Landing Page](https://agriculture-in-africa.webflow.io/)    
-<img src="http://s16.sinaimg.cn/mw690/0060ICT4gy6W9bGj6hh2f&690" width="800">
+<img src="Pictures/agriculture.jpg" width="800">
    
 retrieved from [http://blog.sina.com.cn/s/blog_14844c1ce0102w1th.html](http://blog.sina.com.cn/s/blog_14844c1ce0102w1th.html)
     
