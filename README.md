@@ -1,4 +1,5 @@
 # **COMP8260 Workshop4 Group3 Project**
+## Agriculture in Africa
 > For more information, please visit our [Landing Page](https://agriculture-in-africa.webflow.io/)    
 <img src="Pictures/agriculture.jpg" width="800">
    
