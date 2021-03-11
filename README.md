@@ -20,10 +20,11 @@ This project aims to use technological innovations such as Open Data Cube (Earth
 to help Africa build more sustainable and prosperous social ecosystems for urbanization.
 
 ## Project Overview
-Government and industry need to use some technological innovation platforms to collect information such as the trend of urbanization and the state of population flow 
-in order to play a role in regular urban surveillance.
+To analyze how Digital Earth Africa uses innovative technologies such as climate monitoring and crop
+health analysis to help governments and farmers better develop agricultural activities and make decisions.
 
 ## Project Documents
 * [Project Overview]()
 * [Team Charter]()
 * [Decision Log]()
+* [Stakeholder Analysis](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/master/Project%20Documents/Design%20Thinking/Stakeholder%20analysis.pdf)
