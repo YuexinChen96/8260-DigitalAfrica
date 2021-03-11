@@ -27,3 +27,4 @@ health analysis to help governments and farmers better develop agricultural acti
 * [Project Overview]()
 * [Team Charter]()
 * [Decision Log]()
+* [Stakeholder Analysis](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/master/Project%20Documents/Design%20Thinking/Stakeholder%20analysis.pdf)
