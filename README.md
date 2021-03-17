@@ -14,7 +14,7 @@ retrieved from [http://blog.sina.com.cn/s/blog_14844c1ce0102w1th.html](http://bl
 
 ## Introduction
 Agriculture is the most important sector in most African countries. It contributes about **30%** of the continent GDP and about 
-**50%** of its exports. Of the 1 billion people in Africa, **70%** depend on agriculture for their livelihood. 
+**50%** of its exports. Of the 1 billion people in Africa, **70%** depend on agriculture for their livelihood.     
 Nowadays, with the continuous growth of population, agrotechnique is also in constant innovation, many new technologies 
 and data are also applied in farming and production, to promote the sustainable development of agriculture.
 This project aims to use technological innovations such as ... (Earth observation data; Digital Earth for Africa) 
