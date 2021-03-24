@@ -29,3 +29,4 @@ health analysis to help governments and farmers better develop agricultural acti
 * [Team Charter]()
 * [Decision Log]()
 * [Stakeholder Analysis](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/master/Project%20Documents/Design%20Thinking/Stakeholder%20analysis.pdf)
+* [Mapping relationships between issues and stakeholders](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/master/Project%20Documents/Design%20Thinking/Relationships%20between%20Issues%20and%20Stakeholders.pdf)
