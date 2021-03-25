@@ -21,8 +21,10 @@ This project aims to use technological innovations such as ... (Earth observatio
 to help African governments and farmers better develop agricultural activities and make decisiions.
 
 ## Project Overview
-To analyze how Digital Earth Africa uses innovative technologies such as climate monitoring and crop
-health analysis to help governments and farmers better develop agricultural activities and make decisions.
+The South Africa government needs to ensure food security and agriculture development on the basis of 
+maintaining socio-ecological sustainable development because they lack the ability to 
+scientifically and systematically make analysis and decisions.
+
 
 ## Project Documents
 * [Project Overview]()
