@@ -21,7 +21,7 @@ This project aims to use technological innovations such as ... (Earth observatio
 to help African governments and farmers better develop agricultural activities and make decisiions.
 
 ## Project Overview
-The South Africa government needs to ensure food security and agriculture development on the basis of 
+The South African government needs to ensure food security and agriculture development on the basis of 
 maintaining socio-ecological sustainable development because they lack the ability to 
 scientifically and systematically make analysis and decisions.
 
