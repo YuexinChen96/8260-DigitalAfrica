@@ -32,20 +32,20 @@ The South African government needs to ensure food security and agriculture devel
 
 * [Stakeholder Analysis](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/master/Project%20Documents/Design%20Thinking/Stakeholder%20analysis.pdf)
 * [Mapping Relationships between Issues and Stakeholders](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/master/Project%20Documents/Design%20Thinking/Relationships%20between%20Issues%20and%20Stakeholders.pdf)
-* [Ecosystem Mapping]()
-* [HMW Chart]()
-* [KWHL Chart]()
-* [Project Client Map]()
-* [Value Map]()
-* [Six Hats Thinking]()
-* [Lotus Boom Analysis]()
-* [Dot Voting Results]()
-* [Gantt Chart]()
-* [Content of Questionnaire]()
+* [Ecosystem Mapping](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/1303f463ba0445a1b5491dacc13d7c505b82883b/Project%20Documents/Design%20Thinking/Ecosystem%20mapping.pdf)
+* [HMW Chart](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/1303f463ba0445a1b5491dacc13d7c505b82883b/Project%20Documents/Design%20Thinking/HMW.pdf)
+* [KWHL Chart](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/1303f463ba0445a1b5491dacc13d7c505b82883b/Project%20Documents/Design%20Thinking/KWHL_chart.pdf)
+* [Project Client Map](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/1303f463ba0445a1b5491dacc13d7c505b82883b/Project%20Documents/Design%20Thinking/The_Project_Client_Map_v0.pdf)
+* [Value Map](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/1303f463ba0445a1b5491dacc13d7c505b82883b/Project%20Documents/Design%20Thinking/Value_Proposition_Canvas__Emapthy_Map_Canvas.pptx)
+* [Six Hats Thinking](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/1303f463ba0445a1b5491dacc13d7c505b82883b/Project%20Documents/Design%20Thinking/6_Hats.pdf)
+* [Lotus Boom Analysis](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/1303f463ba0445a1b5491dacc13d7c505b82883b/Project%20Documents/Design%20Thinking/LotusBloom.pdf)
+* [Dot Voting Results](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/1303f463ba0445a1b5491dacc13d7c505b82883b/Project%20Documents/Design%20Thinking/Dot_Voting_Results.pdf)
+* [Gantt Chart](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/1303f463ba0445a1b5491dacc13d7c505b82883b/Project%20Documents/Design%20Thinking/Gantt_Chart.pdf)
+* [Content of Questionnaire](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/1303f463ba0445a1b5491dacc13d7c505b82883b/Project%20Documents/Design%20Thinking/Content%20of%20Questionnaire.pdf)
 
 ### Project Audit
 
-* [Project Audit]()
+* [Project Audit](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/1303f463ba0445a1b5491dacc13d7c505b82883b/Project%20Documents/Project%20Audit/PP2_S2_2020_Workshop_Week7_ProjectAudit_W4G3.pdf)
 
 ### Project Deliverables
 
