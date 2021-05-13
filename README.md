@@ -32,3 +32,4 @@ scientifically and systematically make analysis and decisions.
 * [Decision Log]()
 * [Stakeholder Analysis](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/master/Project%20Documents/Design%20Thinking/Stakeholder%20analysis.pdf)
 * [Mapping relationships between issues and stakeholders](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/master/Project%20Documents/Design%20Thinking/Relationships%20between%20Issues%20and%20Stakeholders.pdf)
+* [HMW chart]()
