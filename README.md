@@ -24,9 +24,9 @@ The South African government needs to ensure food security and agriculture devel
 
 ### Project Initiation
 
-* [Project Overview]()
+* [Project Overview](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/master/Project%20Documents/Project%20Initiation/Project_Overview_Workshop04_Group03.pdf)
 
-* [Team Charter]()
+* [Team Charter](https://gitlab.cecs.anu.edu.au/u7172190/comp8260-workshop4-group3/-/blob/master/Project%20Documents/Project%20Initiation/Project_TeamCharter_Workshop04_Group03.pdf)
 
 ### Design Thinking
 
